@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'logoFont';
+    src: url('./assets/fonts/Eurostile\ Extended\ Regular/Eurostile Extended Regular.ttf') format('truetype');
+    /* Add more src definitions for different font file formats if needed */
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'RegularFont';
+    src: url('./assets/Carmen\ Sans\ Thin.otf') format('truetype');
+    /* Add more src definitions for different font file formats if needed */
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'HeaderFont';
+    src: url('./assets/fonts/Eurostile\ Extended\ Bold/Eurostile Extended Bold.ttf') format('truetype');
+    /* Add more src definitions for different font file formats if needed */
+    font-weight: normal;
+    font-style: normal;
+}

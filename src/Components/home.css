@@ -1,0 +1,14 @@
+.icon {
+    transition: margin-top 0.3s ease;
+    /* Add transition for smooth effect */
+}
+
+.icon:hover {
+    margin-top: -5px;
+    color: rgb(132, 232, 162);
+    /* Move the icon slightly upward on hover */
+}
+
+.hoverColor:hover {
+    color: rgb(132, 232, 162);
+}
